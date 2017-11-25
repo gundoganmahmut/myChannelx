@@ -1,0 +1,51 @@
+body {
+  color: #6F6F6F;
+  font-family: 'Droid Sans', 'Helvetica', 'sans';
+  font-size: 12pt;
+  margin: 2ex 2em;
+}
+
+
+/* Full-width inputs */
+input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #0080FF;
+    color: white;
+    padding: 14px 20px;
+    margin: 12px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+
+
+
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+    width: 30%;
+    float: right;
+}
+
+.channel {
+    width: 60%;
+    float: left;
+    padding: 16px;
+}
+
+.login {
+	padding: 8px;
+	width: 97%; 
+	text-align: right;
+	display: inline-block;
+}
